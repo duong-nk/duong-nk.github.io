@@ -5,7 +5,7 @@
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
     <meta name="viewport" content="width=320, initial-scale=1.0, maximum-scale=1.0" />
-    <title>iamhieudinh | My Apps</title>
+    <title>Sugar97% Studio | My Apps</title>
 
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap" rel="stylesheet">
@@ -70,8 +70,8 @@
 
             Don't forget Tube keywords - a great music app for you.<br /><br />
 
-            <a href="https://apps.apple.com/us/app/id1506871707">
-                https://apps.apple.com/us/app/id1506871707
+            <a href="https://play.google.com/store/apps/details?id=com.diutup.music">
+                https://play.google.com/store/apps/details?id=com.diutup.music
             </a>
         </p>
     </center>
