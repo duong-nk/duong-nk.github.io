@@ -1,37 +1,81 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html
+    PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
 
-You can use the [editor on GitHub](https://github.com/duong-nk/tube.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta name="viewport" content="width=320, initial-scale=1.0, maximum-scale=1.0" />
+    <title>iamhieudinh | My Apps</title>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap" rel="stylesheet">
 
-### Markdown
+    <link rel="stylesheet" href="./style.css">
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+    <script data-ad-client="ca-pub-9423717699825885" async
+        src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+</head>
 
-```markdown
-Syntax highlighted code block
+<body>
+    <center>
+        <div id="navigationController">
+            <div id="navigationTitle">My Apps</div>
+        </div>
 
-# Header 1
-## Header 2
-### Header 3
+        <table style="width: 320px;">
+            <td>
+                <img src="./music-hunter/assets/app-icon.png" align="left" width="60" height="60"
+                    style="border-radius: 7.5px; border-style: solid; border-width: 1px; border-color:rgba(0, 0, 0, 0.1);" />
 
-- Bulleted
-- List
+                <b style="margin-left: 10px; margin-right: 10px; font-weight: bold;">Tube Vanced</b>
+                <hr width="245px" size="1px" align="right" />
+                <b style="margin-left: 10px; margin-right: 10px; font-weight: normal;">Play music in the background</b>
+            </td>
+        </table>
 
-1. Numbered
-2. List
+        <br />
 
-**Bold** and _Italic_ and `Code` text
+        <div style="width: 320px; overflow: auto; white-space: nowrap;">
+            <img src="./music-hunter/assets/1.jpg" width="100" height="auto"
+                style="border-radius: 7.5px; border-style: solid; border-width: 1px; border-color:rgba(0, 0, 0, 0.1);" />
+            <img src="./music-hunter/assets/2.jpg" width="100" height="auto"
+                style="border-radius: 7.5px; border-style: solid; border-width: 1px; border-color:rgba(0, 0, 0, 0.1);" />
+            <img src="./music-hunter/assets/3.jpg" width="100" height="auto"
+                style="border-radius: 7.5px; border-style: solid; border-width: 1px; border-color:rgba(0, 0, 0, 0.1);" />
+            <img src="./music-hunter/assets/4.jpg" width="100" height="auto"
+                style="border-radius: 7.5px; border-style: solid; border-width: 1px; border-color:rgba(0, 0, 0, 0.1);" />
+            <img src="./music-hunter/assets/5.jpg" width="100" height="auto"
+                style="border-radius: 7.5px; border-style: solid; border-width: 1px; border-color:rgba(0, 0, 0, 0.1);" />
+            <img src="./music-hunter/assets/6.jpg" width="100" height="auto"
+                style="border-radius: 7.5px; border-style: solid; border-width: 1px; border-color:rgba(0, 0, 0, 0.1);" />
+            <img src="./music-hunter/assets/7.jpg" width="100" height="auto"
+                style="border-radius: 7.5px; border-style: solid; border-width: 1px; border-color:rgba(0, 0, 0, 0.1);" />
+        </div>
 
-[Link](url) and ![Image](src)
-```
+        <p>
+            Tube is a free music application with many interesting features, giving you the best music experience on
+            your mobile device.<br /><br />
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+            Tube, which is constantly updated, will brings you a huge music collection with high quality and full of
+            genres. You can easily approach playlists which are dominating the charts in many countries such as GB, JP,
+            KR, US, VN ...<br /><br />
 
-### Jekyll Themes
+            Tube owns a modern, smart music player with many interesting features:<br /><br />
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/duong-nk/tube.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+            - Tracking charts in many countries<br />
+            - Search for favorite songs<br />
+            - Customizing your playlist<br />
+            - Playing videos in the background<br />
+            - Support connecting with AirPods, AirPlay ...<br /><br />
 
-### Support or Contact
+            Don't forget Tube keywords - a great music app for you.<br /><br />
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+            <a href="https://apps.apple.com/us/app/id1506871707">
+                https://apps.apple.com/us/app/id1506871707
+            </a>
+        </p>
+    </center>
+
+</body>
+
+</html>
